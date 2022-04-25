@@ -52,7 +52,7 @@
 <hr>
 <a src="https://github.com/FBW-WD-22-D03-22/bdl-publishing-authoring-MohammadAmarena">external-link</a>
 <br>
-<img src="/Authoring/images/logo.png" width=50rem>
+<img src="[images/logo.png](https://www.jotun-austria.at/wp-content/uploads/2018/03/Pinguin-Spirit-1024x724.jpg)" width=50rem>
 <hr>
 
 :blush:
